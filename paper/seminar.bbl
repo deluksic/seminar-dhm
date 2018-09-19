@@ -1,0 +1,42 @@
+\begin{thebibliography}{1}
+
+\bibitem{denis2005twin}
+Loic Denis, Corinne Fournier, Thierry Fournel, and Christophe Ducottet.
+\newblock Twin-image noise reduction by phase retrieval in in-line digital
+  holography.
+\newblock In {\em Wavelets XI}, volume 5914, page 59140J. International Society
+  for Optics and Photonics, 2005.
+
+\bibitem{gabor1948new}
+Dennis Gabor.
+\newblock A new microscopic principle, 1948.
+
+\bibitem{Garcia-Sucerquia:06}
+Jorge Garcia-Sucerquia, Wenbo Xu, Stephan~K. Jericho, Peter Klages, Manfred~H.
+  Jericho, and H.~J\"{u}rgen Kreuzer.
+\newblock Digital in-line holographic microscopy.
+\newblock {\em Appl. Opt.}, 45(5):836--850, Feb 2006.
+
+\bibitem{goodman2005introduction}
+Joseph~W Goodman.
+\newblock {\em Introduction to Fourier optics}.
+\newblock Roberts and Company Publishers, 2005.
+
+\bibitem{kemper2008digital}
+Bj{\"o}rn Kemper and Gert Von~Bally.
+\newblock Digital holographic microscopy for live cell applications and
+  technical inspection.
+\newblock {\em Applied optics}, 47(4):A52--A61, 2008.
+
+\bibitem{leith1965microscopy}
+Emmett~N Leith, Juris Upatnieks, and Kenneth~A Haines.
+\newblock Microscopy by wavefront reconstruction.
+\newblock {\em JOSA}, 55(8):981--986, 1965.
+
+\bibitem{shiraki2012handheld}
+Atsushi Shiraki, Yusuke Taniguchi, Tomoyoshi Shimobaba, Nobuyuki Masuda, and
+  Tomoyoshi Ito.
+\newblock Handheld and low-cost digital holographic microscopy.
+\newblock {\em arXiv preprint arXiv:1211.0336}, 2012.
+
+\end{thebibliography}
